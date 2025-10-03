@@ -14,7 +14,7 @@ function TelaInicio() {
       <View style={estilos.card}>
         <Text style={estilos.titulo}>Biografia</Text>
         <Text style={estilos.texto}>
-          Olá, meu nome é Lorrayne, mais conhecida por PoliPoli, tenho 20 anos e sou estudante de Agronomia e Técnico em Desenvolvimento de Sistemas.
+          Olá, meu nome é Lorrayne, mais conhecida pelo apelido PoliPoli, tenho 20 anos e sou estudante de Agronomia e Técnico em Desenvolvimento de Sistemas.
         </Text>
         <Text style={estilos.texto}>
           Sou uma pessoa delicada igual coice de Mula 🐴, comunicativa e sempre disposta a aprender coisas novas. Tenho interesse em tecnologia, programação, solo e animais.
